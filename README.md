@@ -60,7 +60,7 @@ I'm a **Computer Science and Engineering** student passionate about **full-stack
 
 🌐 **Portfolio:** [Coming Soon]\
 📧 **Email:** [dakshpanchal0605@gmail.com](mailto:dakshpanchal0605@gmail.com)\
-💼 **LinkedIn:** [Daksh-06](https://linkedin.com/in/daksh-06)\
+💼 **LinkedIn:** [Dakshpanchal06](https://www.linkedin.com/in/dakshpanchal06/)\
 📂 **GitHub:** [Daksh-06](https://github.com/Daksh-06)
 
 ---

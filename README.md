@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daksh Panchal</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Software Developer</h3>
+<h3 align="center"> Aspiring Full-Stack Developer | MERN Stack | Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;Aspiring+Software+Engineer;Always+Learning+New+Things" />

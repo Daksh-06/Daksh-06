@@ -79,16 +79,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Daksh-06&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-06&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Daksh-06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Daksh's GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-06&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-06&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
+
+
 
 ---
 
@@ -99,6 +100,7 @@
   <a href="https://github.com/Daksh-06"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 
 ---
 

@@ -1,69 +1,112 @@
-# 👋 Hey there, I'm Daksh!
+<h1 align="center">Hi 👋, I'm Daksh Panchal</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | Software Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;Aspiring+Software+Engineer;Always+Learning+New+Things" />
+</p>
 
+---
 
-## 🚀 About Me
-
-I'm a **Computer Science and Engineering** student passionate about **full-stack development** and **problem-solving**. My goal is to become a top-tier **full-stack developer** and crack technical interviews at **MAANG** companies. Currently, I'm sharpening my skills in **DSA, web development, and leadership**.
-
-🌱 **Currently Learning:** Advanced **DSA in Java** & System Design\
-💡 **Interests:** Full-Stack Development, AI/ML, Open Source Contributions\
-📌 **Projects:** Building scalable web apps & leading development teams\
-🎯 **Goal:** Become a skilled software engineer & contribute to impactful projects
+## 🔥 About Me  
+- 🚀 Full-Stack Developer with experience in **MERN, Django, Flask, and SQL**  
+- 🎯 Currently working on **AR-Menu Café Web App (MERN + AR.js)**  
+- 💡 Basic Practice in **DSA,** Strong in **problem solving,** and **scalable system design**  
+- 🌱 Learning **Cloud, DSA, Distributed Systems, and Advanced Backend**  
+- 🎓 CSE Student at **Parul University** (2022–2026)  
+- 💭 Goal: To join a top tech product firm  
+- ⚡ Fun Fact: I debug faster with music 🎧
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
+### 💻 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)\
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)\
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)\
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) [React](https://react.dev/)\
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) [Bootstrap](https://getbootstrap.com/)
+### 🌐 Web Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express,flask,django" />
+</p>
 
-### **Backend**
+### 🗄️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) [Flask](https://flask.palletsprojects.com/)\
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) [Django](https://www.djangoproject.com/)\
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) [Node.js](https://nodejs.org/)\
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) [Express.js](https://expressjs.com/)
-
-### **Database & DevOps**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) [MySQL](https://www.mysql.com/)\
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) [PostgreSQL](https://www.postgresql.org/)\
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) [MongoDB](https://www.mongodb.com/)\
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) [Git](https://git-scm.com/)\
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/)\
+### 🧰 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
 ---
 
-## 📌 Projects
+## 🚀 Major Projects
 
-🔹 **Clothique** – An e-commerce platform built with Flask & Django [🔗 Repo](https://github.com/Daksh-06/Clothique)\
-🔹 **Cafe Menu AR** – Augmented reality-powered menu with QR-based table identification [🔗 Repo](https://github.com/Daksh-06/Cafe-Menu-AR)\
-🔹 **Feedback System** – A Django-Flask-based feedback collection system [🔗 Repo](https://github.com/Daksh-06/Feedback-System-main)\
-🔹 **Precision Farming Chatbot** – AI chatbot for smart farming advice [🔗 Repo](https://github.com/Daksh-06/Precision-Farming-Chatbot)
-
----
-
-## 📊 GitHub Stats
-
-![Daksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh-06&show_icons=true&theme=radical)\
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-06&layout=compact&theme=radical)
+### 🔹 AR-Menu Café Web App  
+**Tech:** MERN (MongoDB, Express, React, Node.js), AR.js, QR Code API  
+- Built an AR-integrated restaurant menu with real-time table-wise order tracking.  
+- Developed backend APIs for orders, dishes, and inventory using Node.js & Express.js.  
+- Implemented QR-based table recognition for personalized menu experience.  
+- Designed admin panel for managing dishes, orders, and inventory dynamically.  
+**🔗 Live:** https://nextgencafe.netlify.app/
 
 ---
 
-## 🤝 Connect with Me
-
-🌐 **Portfolio:** [Coming Soon]\
-📧 **Email:** [dakshpanchal0605@gmail.com](mailto:dakshpanchal0605@gmail.com)\
-💼 **LinkedIn:** [Dakshpanchal06](https://www.linkedin.com/in/dakshpanchal06/)\
-📂 **GitHub:** [Daksh-06](https://github.com/Daksh-06)
+### 🔹 NextGen Admin Dashboard  
+**Tech:** React, HTML, CSS, JavaScript, Tailwind, REST APIs  
+- Built a responsive dashboard for café operations with real-time order and inventory monitoring.  
+- Created interactive UI components (charts, tables, notifications) for key performance insights.  
+- Added REST API integrations & ensured mobile-first, cross-browser compatibility.  
+**🔗 Live:** https://nextgen-admindashboard.netlify.app/
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** ⭐
+### 🔹 GrievanceGuard – Complaint Redressal System  
+**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL, REST APIs  
+- Developed a full-stack grievance registration & tracking system with automated workflow.  
+- Integrated government APIs for address verification and smart complaint routing.  
+- Implemented secure JWT-based authentication with 98% session reliability.  
+- Reduced complaint resolution time by **30%** with real-time notifications.
+
+---
+
+### 🔹 3D Enhanced Whaalaxy Tools Website (In Development)  
+**Tech:** HTML, CSS, JavaScript, Three.js (or other 3D libraries), Modern UI/UX  
+- Developing a premium 3D-interactive website with floating tool displays and animated hero sections.  
+- Building 3D product showcases, animated cards, and modern navigation with luxury industrial styling.  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Daksh-06&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-06&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-06&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:Dakshpanchal0605@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Daksh-06"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<div align="center">
+  
+### ⭐ If you like my profile, consider giving a star to my repositories! ⭐  
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daksh-06&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
+</p>
 
